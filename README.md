@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Devang-Jain/Devang-Jain/blob/main/Devang%20Jain.png)
 <h1 align="center">Hi 👋, I'm Devang Jain</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
